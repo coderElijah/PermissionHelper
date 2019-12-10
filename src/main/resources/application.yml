@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:mysql://172.16.10.23:3306/acme?characterEncoding=UTF-8&autoReconnect=true&zeroDateTimeBehavior=convertToNull&useUnicode=true&allowMultiQueries=true
+    url: jdbc:mysql://xxx:3306/xxx?characterEncoding=UTF-8&autoReconnect=true&zeroDateTimeBehavior=convertToNull&useUnicode=true&allowMultiQueries=true
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: biosan#17
+    password: 123
 
 logging:
   com:
