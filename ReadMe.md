@@ -1,1 +1,1 @@
-项目利用mybatis拦截器原理，实现基于threadlocal的sql条件拼接
+项目利用mybatis拦截器原理，实现基于threadlocal的sql条件拼接，进行数据鉴权
